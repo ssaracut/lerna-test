@@ -10,4 +10,7 @@ run the following command to install node modules
 
 ## Running the hapi-service
 
-` npm run stat `
+` npm run start `
+
+documentation url would be similar to the following
+`http://localhost:8000/documentation`
