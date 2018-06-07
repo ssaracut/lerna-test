@@ -1,0 +1,20 @@
+{
+  "name": "@lerna-test/hapi-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hapi-service.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lerna-test/util": "^1.0.0",
+    "hapi": "^17.2.0",
+    "hapi-swagger": "^9.0.2",
+    "inert": "^5.1.0",
+    "joi": "^13.1.0",
+    "vision": "^5.3.1"
+  }
+}
