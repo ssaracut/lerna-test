@@ -10,6 +10,7 @@ run the following command to install node modules
 
 ## Running the hapi-service
 
+` cd packages/services/hapi-service`
 ` npm run start `
 
 documentation url would be similar to the following
